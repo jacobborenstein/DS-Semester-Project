@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ff3e821-5706-4c31-8cda-d1b0d7a2b7ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreStackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cxm7Zi2vkFWU8Ngn14dlp9eyr2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacobborenstein/Documents/YuCs/Github/Borenstein_Jacob_800755097/DataStructures/project/stage3/src/main/java/edu/yu/cs/com1320/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.yu.cs.com1320.project.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com1320.project.stage3.impl" />
+      <recent name="edu.yu.cs.com1320.project.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentStoreStackTest.undoURITest">
+    <configuration name="DocumentStoreStackTest.undoURITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage3.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage3.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage3.impl.DocumentStoreStackTest" />
+      <option name="METHOD_NAME" value="undoURITest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableImplTest.testtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage3.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage3.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage3.impl.HashTableImplTest" />
+      <option name="METHOD_NAME" value="testtest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="stage3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="stage3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DocumentStoreStackTest.undoURITest" />
+        <item itemvalue="JUnit.HashTableImplTest.testtest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff3e821-5706-4c31-8cda-d1b0d7a2b7ba" name="Changes" comment="" />
+      <created>1709061439036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709061439036</updated>
+      <workItem from="1709061440580" duration="25000" />
+      <workItem from="1709061486066" duration="54000" />
+      <workItem from="1709061567654" duration="1241000" />
+      <workItem from="1709483320120" duration="59021000" />
+      <workItem from="1710183393279" duration="8358000" />
+      <workItem from="1710689293888" duration="3116000" />
+      <workItem from="1710797405091" duration="701000" />
+      <workItem from="1710798551162" duration="2079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/HashTableImplTest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreImpl.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreStackTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/HashTableImplTest.java</url>
+          <line>61</line>
+          <properties class="edu.yu.cs.com1320.project.stage3.impl.HashTableImplTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage3/impl/DocumentStoreStackTest.java</url>
+          <line>20</line>
+          <properties class="edu.yu.cs.com1320.project.stage3.impl.DocumentStoreStackTest" method="undoURITest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
